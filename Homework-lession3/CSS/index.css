@@ -1,0 +1,53 @@
+@import url('./Fonts.css');
+@import url('../CSS/card.css');
+*{
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-family: 'Open Sans', 'Raleway', sans-serif;
+}
+.card-section{
+    background-color: #FFFFFF;
+    
+    
+}
+
+.container{
+    padding: 0, 15px;
+    max-width: 1170px;
+    margin: auto;
+}
+.main-title{
+    text-align: center;
+    color: #212121;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 80px;
+    margin-bottom: 34px;
+    text-transform: uppercase;
+
+}
+.line{
+    
+    border-bottom: solid #E72424;
+    width: 64px;
+    height: 1px;
+    margin: auto;
+    
+}
+.mini-title{
+    color: #86878B;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 34px;
+    margin-bottom: 68px;
+    text-align: center;
+}
