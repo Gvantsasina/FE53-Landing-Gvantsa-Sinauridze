@@ -24,3 +24,15 @@
 .main-table td:nth-child(3){
     text-align: center;
 }
+.border-making{
+    background-color: gainsboro;
+    padding: 200px 0 200px 0;
+}
+.container{
+    padding: 0 15px;
+    max-width: 1170px;
+    margin: auto;
+}
+.text{
+    
+}
